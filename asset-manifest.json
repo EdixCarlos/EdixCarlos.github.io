@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.0244e5e1.chunk.css",
-    "main.js": "/static/js/main.fcd05508.chunk.js",
-    "main.js.map": "/static/js/main.fcd05508.chunk.js.map",
+    "main.js": "/static/js/main.060818c8.chunk.js",
+    "main.js.map": "/static/js/main.060818c8.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.602bef71.js",
     "runtime-main.js.map": "/static/js/runtime-main.602bef71.js.map",
     "static/css/2.e7f3f9d7.chunk.css": "/static/css/2.e7f3f9d7.chunk.css",
@@ -14,7 +14,7 @@
     "static/css/2.e7f3f9d7.chunk.css.map": "/static/css/2.e7f3f9d7.chunk.css.map",
     "static/css/main.0244e5e1.chunk.css.map": "/static/css/main.0244e5e1.chunk.css.map",
     "static/js/2.e1de0082.chunk.js.LICENSE.txt": "/static/js/2.e1de0082.chunk.js.LICENSE.txt",
-    "static/media/EdixCarlosCV.fa355540.pdf": "/static/media/EdixCarlosCV.fa355540.pdf",
+    "static/media/EdixCarlosCV.02474aee.pdf": "/static/media/EdixCarlosCV.02474aee.pdf",
     "static/media/Pose.89132eda.svg": "/static/media/Pose.89132eda.svg",
     "static/media/about.aee0f771.png": "/static/media/about.aee0f771.png",
     "static/media/avatar.7f806e40.svg": "/static/media/avatar.7f806e40.svg",
@@ -32,6 +32,6 @@
     "static/css/2.e7f3f9d7.chunk.css",
     "static/js/2.e1de0082.chunk.js",
     "static/css/main.0244e5e1.chunk.css",
-    "static/js/main.fcd05508.chunk.js"
+    "static/js/main.060818c8.chunk.js"
   ]
 }
